@@ -19,6 +19,7 @@ struct node {
 /* A variable that stores the number of equations we will read */
 int EquationsNo;
 
+
 /* Explanation of all functions under the main function */
 
 void printMenu();
